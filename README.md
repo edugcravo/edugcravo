@@ -1,5 +1,5 @@
 # 💫 About Me
-Olá! Sou Eduardo, um apaixonado por tecnologia e desenvolvimento de software com experiência em frontend e backend. Atualmente, estou focado em **Angular**, **TypeScript**, e **FastAPI**, mas também tenho um forte conhecimento em **JavaScript**, **Python**, e **CSS3**. Sempre busco aprender novas tecnologias e explorar novas abordagens para resolver problemas. Estou interessado em colaborar em projetos inovadores e crescer profissionalmente.
+Hey, sou o Eduardo! Sou um entusiasta da tecnologia
 
 ---
 
