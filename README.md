@@ -1,22 +1,23 @@
 # 💫 About Me
-Olá! Sou Eduardo, um apaixonado por tecnologia e desenvolvimento de software com experiência em frontend e backend. 
-
-🔭 **Experiência e Paixão:** 
-Atualmente, trabalho principalmente com **Angular**, **TypeScript**, e **FastAPI**, mas também tenho um forte conhecimento em **JavaScript**, **Python**, e **CSS3**. Gosto de explorar novas tecnologias e estou sempre em busca de soluções criativas e eficientes.
-
-🌟 **Interesses Profissionais:** 
-Estou interessado em expandir minhas habilidades em desenvolvimento web e contribuir para projetos desafiadores. Tenho um interesse particular por **inteligência artificial** e como ela pode ser aplicada para resolver problemas reais.
-
-💼 **Projetos em Destaque:**
-- [Nome do Projeto 1](link-do-projeto): Uma breve descrição do projeto e suas principais funcionalidades.
-- [Nome do Projeto 2](link-do-projeto): Uma breve descrição do projeto e suas principais funcionalidades.
-
-📚 **Aprendizado Contínuo:**
-Estou sempre buscando aprender novas habilidades e técnicas. Recentemente, tenho explorado **novas bibliotecas e frameworks**, e participo de cursos e workshops para aprimorar meu conhecimento.
-
-🚀 **Objetivos Futuros:**
-Meu objetivo é continuar crescendo como desenvolvedor, colaborar com equipes dinâmicas e inovadoras, e fazer a diferença no mundo da tecnologia.
+Olá! Sou Eduardo, um apaixonado por tecnologia e desenvolvimento de software com experiência em frontend e backend. Atualmente, estou focado em **Angular**, **TypeScript**, e **FastAPI**, mas também tenho um forte conhecimento em **JavaScript**, **Python**, e **CSS3**. Sempre busco aprender novas tecnologias e explorar novas abordagens para resolver problemas. Estou interessado em colaborar em projetos inovadores e crescer profissionalmente.
 
 ---
 
-Se você quiser saber mais sobre meu trabalho ou conversar sobre tecnologia, sinta-se à vontade para me conectar!
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-cravo-2789a7232/) 
+
+# 💻 Tech Stack:
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=edugcravo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=edugcravo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edugcravo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=edugcravo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
