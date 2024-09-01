@@ -1,5 +1,5 @@
 # 💫 About Me
-Hey, sou o Eduardo! Sou um entusiasta da tecnologia.
+Hey, sou o Eduardo! Um entusiasta da tecnologia.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-cravo-2789a7232/) 
