@@ -9,13 +9,10 @@ Confira meu [site pessoal](https://www.nextechnology.com.br) para ver meus proje
 
 ## 🚀 Projetos em Destaque:
 Aqui estão alguns projetos que me orgulho de ter desenvolvido:
-- **[Projeto A](link-do-projeto)**: Um aplicativo inovador para [descrição curta do projeto].
-- **[Projeto B](link-do-projeto)**: Uma ferramenta útil para [descrição curta do projeto].
-- **[Projeto C](link-do-projeto)**: Uma solução criativa para [descrição curta do projeto].
+- **[BNCG BANK]([link-do-projeto](https://github.com/edugcravo/bncg))**: Uma aplicação de emissão de carta fiança.
+- **[PEGASUS]([link-do-projeto](https://github.com/edugcravo/pegasus))**: Uma aplicação de venda de produtos apple.
+- **[USS SUPORTE]([link-do-projeto](https://github.com/edugcravo/sistema-chamados))**: Uma aplicação de gerenciamento de chamados para a T.I.
 
-## 🏆 Conquistas:
-- **Certificação em [Tecnologia]**: [Breve descrição da certificação].
-- **Participação em [Hackathon/Evento]**: [Breve descrição do evento e o resultado].
 
 ## 💻 Tecnologias:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
