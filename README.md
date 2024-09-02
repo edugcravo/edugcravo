@@ -5,7 +5,7 @@ Oi, sou o Eduardo! Sou um entusiasta da tecnologia.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-cravo-2789a7232/) 
 
 ## 🌍 Meu Site:
-Confira meu [site pessoal](https://www.nextechnology.com.br) para explorar meus projetos mais recentes e descobrir como posso criar um site personalizado para você. Ofereço serviços para transformar suas ideias em soluções digitais práticas e eficazes!
+Confira meu [site pessoal](https://www.nextechnology.com.br), Ofereço serviços para transformar suas ideias em soluções digitais práticas e eficazes!
 
 ## 🚀 Projetos em Destaque:
 Aqui estão alguns projetos que me orgulho de ter desenvolvido:
