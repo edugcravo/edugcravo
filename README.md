@@ -1,6 +1,5 @@
 # 💫 Sobre Mim
-Hey, sou o Eduardo! Sou um entusiasta da tecnologia com paixão por resolver desafios através do desenvolvimento de software.
-
+Hey, sou o Eduardo! Sou um entusiasta da tecnologia.
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-cravo-2789a7232/) 
 
