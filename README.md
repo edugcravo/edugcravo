@@ -10,7 +10,7 @@ Confira meu [site pessoal](https://www.nextechnology.com.br) para explorar meus 
 
 ## 🚀 Projetos em Destaque:
 Aqui estão alguns projetos que me orgulho de ter desenvolvido:
-- **[BNCG BANK]([link-do-projeto](https://github.com/edugcravo/bncg))**: Uma aplicação de emissão de carta fiança.
+- **[BNCG BANK](link-do-projeto(https://github.com/edugcravo/bncg)**: Uma aplicação de emissão de carta fiança.
 - **[PEGASUS]([link-do-projeto](https://github.com/edugcravo/pegasus))**: Uma aplicação de venda de produtos apple.
 - **[USS SUPORTE]([link-do-projeto](https://github.com/edugcravo/sistema-chamados))**: Uma aplicação de gerenciamento de chamados para a T.I.
 
