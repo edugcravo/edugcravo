@@ -1,5 +1,5 @@
 # 💫 Sobre
-Hey, sou o Eduardo! um entusiasta da tecnologia.
+Opa, sou o Eduardo! um entusiasta da tecnologia.
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-cravo-2789a7232/) 
 
