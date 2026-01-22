@@ -1,4 +1,4 @@
-## Sobre
+## 👋 Sobre
 Opa, sou o Eduardo! Um entusiasta da tecnologia, apaixonado por desenvolvimento de software e criação de soluções digitais eficientes.
 
 ## 🌐 Redes Sociais:
