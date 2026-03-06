@@ -1,13 +1,26 @@
 ## 👋 Sobre
 Opa, sou o Eduardo! Um entusiasta da tecnologia, apaixonado por desenvolvimento de software e criação de soluções digitais eficientes.
 
+## 🛠️ Meu Produto em Destaque:
+### **[DevLens PRO — UI & Network Toolkit](https://chromewebstore.google.com/detail/devlens-pro-ui-network-to/ifbffpdgkjbghndjefjdloajnenfddeh)**
+O "Canivete Suíço" para desenvolvedores Web. Uma extensão para Chrome que centraliza o fluxo de design e debug em um só lugar.
+
+* **📡 Network Spy & API Mocking:** Intercepte chamadas e edite JSON em tempo real.
+* **📱 Responsive Matrix:** Visualize Mobile, Tablet e Desktop simultaneamente com Sync Scroll.
+* **✏️ Design Mode:** Edite layouts visualmente, arraste elementos e extraia CSS/Assets com um clique.
+* **🪄 Magic Form Filler:** Preenchimento inteligente de formulários para QA e Devs.
+
+👉 **[Garanta sua licença Vitalícia aqui!](https://cravomancer.gumroad.com/l/devlens-pro)**
+
+---
+
 ## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-cravo-2789a7232/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-cravo-2789a7232/) 
 
 ## 🌍 Meu Site:
 Confira meu [site pessoal](https://edugcravo.github.io/nextechnology/) para explorar meus projetos mais recentes e descobrir como posso criar um site personalizado para você. Ofereço serviços para transformar suas ideias em soluções digitais práticas e eficazes!
 
-## 🚀 Projetos em Destaque:
+## 🚀 Outros Projetos:
 Aqui estão alguns projetos que me orgulho de ter desenvolvido:
 - **[BNCG BANK](https://github.com/edugcravo/bncg)**: Uma aplicação robusta para emissão de cartas fiança, com foco em segurança e eficiência.
 - **[PEGASUS](https://github.com/edugcravo/pegasus)**: Plataforma dedicada à venda de produtos Apple.
@@ -21,5 +34,3 @@ Aqui estão alguns projetos que me orgulho de ter desenvolvido:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edugcravo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=edugcravo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Orgulhosamente criado com GPRM ( https://gprm.itsvg.in ) -->
