@@ -17,8 +17,14 @@ O "Canivete Suíço" para desenvolvedores Web. Uma extensão para Chrome que cen
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-cravo-2789a7232/) 
 
-## 🌍 Meu Site:
-Confira meu [site pessoal](https://edugcravo.github.io/nextechnology/) para explorar meus projetos mais recentes e descobrir como posso criar um site personalizado para você. Ofereço serviços para transformar suas ideias em soluções digitais práticas e eficazes!
+## 🏢 Nextech — Soluções Digitais Estratégicas
+Através da **[Nextech](https://edugcravo.github.io/nextechnology/)**, ajudo empresas a escalarem seus negócios com tecnologia de ponta e design de alto impacto. Não entregamos apenas código, entregamos máquinas de vendas.
+
+* **🚀 Foco em Conversão:** Landing Pages e e-commerces projetados estrategicamente para transformar visitantes em clientes.
+* **🛠️ Desenvolvimento Full-Stack:** Aplicações escaláveis com código limpo e integrações modernas.
+* **💎 Experiência Premium:** Layouts exclusivos, suporte contínuo e infraestrutura otimizada (Hospedagem + Domínio).
+
+👉 **[Solicite um orçamento ou fale com um especialista](https://edugcravo.github.io/nextechnology/)**
 
 ## 🚀 Outros Projetos:
 Aqui estão alguns projetos que me orgulho de ter desenvolvido:
